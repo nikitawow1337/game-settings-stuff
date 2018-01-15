@@ -1,0 +1,9 @@
+-refresh 144 -maxMem=8000 -force-feature-level-11-0 -malloc=system +mat_antialias 0 window -USEALLAVAILABLECORES -threads 12 -sm4 -d3d10
+
+1) windowed, 1080p, 103, 50, ulow, 100, ulow.., no, no
+
+2) 41, 41, 41, 43, 40, 44, 42, 43, thumb2, thumb1, Shift+W [win 4/11]
+
+3) 58, 40, 39, 15, PtT, all, 36, 70
+
+4) off, standard, blue, on, on, 10, off, +q-e
