@@ -1,0 +1,1 @@
+-novid -console -threads 12 -freq 144 -refresh 144 -high +rate 786543 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp 0.00.1 +cl_interp_ratio 1 -tickrate 128
